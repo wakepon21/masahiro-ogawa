@@ -1,0 +1,85 @@
+@charset "UTF-8";
+/* テキストのCSS */
+
+body{
+font-family: 'メイリオ', 'Meiryo', sans-serif;
+}
+h1 {
+  color: #cc0033;
+  font-size: 30px;
+  text-align: center;
+}
+h2 {
+  color: #cc0033;
+  font-size: 20px;
+  text-align: center;
+}
+p{
+  color: #666;
+  font-size: 16px;
+  line-height: 26px;
+  text-align: center;
+}
+
+
+/*
+#title {
+  color: #6600ff;
+}
+
+.text {
+  font-size: 14px;
+}
+span {
+  font-weight: bold;
+}
+img {
+  width: 300px;
+  height: auto;
+}
+a {
+  text-decoration: none;
+}
+a:visited {
+  color: #999;
+}
+a:hover {
+  color: #6699ff;
+  text-decoration: underline;
+}
+a:active {
+  color: #993366;
+}
+ul {
+  list-style-type: none;
+  font-size: 0;
+}
+li {
+  display: inline-block;
+  width: 100px;
+  height: 30px;
+}
+li a {
+  display:block;
+  background-color: #333;
+  color: #fff;
+  font-size: 18px;
+  text-align: center;
+  line-height: 30px;
+}
+li a:visited {
+  color: #fff;
+}
+li a:hover {
+  background-color: #999;
+  color: #fff;
+  text-decoration: none;
+}
+.article {
+  margin-top: 40px;
+  padding: 16px;
+  background-color: #eee;
+}
+*/
+
+
